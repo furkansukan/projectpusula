@@ -407,7 +407,7 @@ def contact_page():
 # Ana Sayfa ve Diğer Sayfaların Seçimi
 def main():
     st.sidebar.title("Pusula Yazılım")
-    image = Image.open('logo.png')
+    image = Image.open('hospital_management/logo.png')
     with st.sidebar:
         st.image(image, caption='Pusulayazilim.com', use_column_width=True)
         st.write("Hastane Yönetim Sistemi")  # Fotoğrafın üstüne isim ekleyin
