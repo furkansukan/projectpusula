@@ -398,7 +398,7 @@ def contact_page():
     st.write("🪪 **LinkedIn**: https://www.linkedin.com/in/furkansukan/")
     st.write("🔗 **Kaggle**: https://www.kaggle.com/furkansukan")
     st.write("🐙 **GitHub**: https://github.com/furkansukan")  # Buraya bağlantı ekleyebilirsiniz
-    st.write("🌐 **Proje Sitesi**: [Delhi Metro Operations](#)")  # Buraya bağlantı ekleyebilirsiniz
+      # Buraya bağlantı ekleyebilirsiniz
 
     st.write("""
             Görüş ve önerilerinizi duymaktan mutluluk duyarım!
