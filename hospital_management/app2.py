@@ -387,7 +387,7 @@ def assignment_page():
         st.dataframe(doctor_totals_df)
 
 def contact_page():
-    st.title("İletişim")
+    #st.title("İletişim")
     st.header("İletişim")
     st.write("""
             **Daha Fazla Soru ve İletişim İçin**  
