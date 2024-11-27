@@ -9,4 +9,3 @@ yellowbrick
 pillow
 prophet
 datetime
-sklearn
