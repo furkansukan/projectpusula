@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
+scikit-learn
+plotly
+yellowbrick
+random
+PIL
+prophet
+datetime
+sklearn
