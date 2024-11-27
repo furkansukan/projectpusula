@@ -6,7 +6,7 @@ streamlit
 scikit-learn
 plotly
 yellowbrick
-Pillow
+pillow
 prophet
 datetime
 sklearn
